@@ -1,3 +1,7 @@
+**Pipelight is an interactive simulator built with Qt/C++ that visualizes the out-of-order execution of Assembly code.
+
+---
+
 ## ✅ Supported Features & Instruction Set
 
 Pipelight simulates a rich subset of the x86 instruction set architecture, focusing on the core operations needed to demonstrate the principles of out-of-order execution.
